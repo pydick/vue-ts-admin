@@ -1,5 +1,5 @@
 <template>
     <div>
-        login index
+        system index
     </div>
 </template>

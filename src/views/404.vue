@@ -1,5 +1,5 @@
 <template>
     <div>
-        login index
+        404 index
     </div>
 </template>

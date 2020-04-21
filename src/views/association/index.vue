@@ -1,5 +1,5 @@
 <template>
     <div>
-        login index
+       acsociation index
     </div>
 </template>

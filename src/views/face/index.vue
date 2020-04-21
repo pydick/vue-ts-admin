@@ -1,5 +1,5 @@
 <template>
     <div>
-        login index
+        face index
     </div>
 </template>
