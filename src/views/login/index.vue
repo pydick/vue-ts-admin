@@ -21,13 +21,11 @@ import { Sessions } from "@/utils/config";
 @Component
 export default class Login extends Vue {
   private form = {
-    userName: "a", 
-    password: "b" 
+    userName: "a",
+    password: "b"
   };
 
   private async onSubmit() {
-    console.log("submit!");
-    console.log(this);
     // 调登录接口
     try {
       const userName: string = this.form.userName.trim();
