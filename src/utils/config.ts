@@ -9,3 +9,8 @@ if (process.env.NODE_ENV === "production") {
   port = 80 // 端口号
 }
 export const baseApi = `http://${ip}:${port}` // configs for production and development
+// 有tab切换的页面,存储选中页面的名称
+export enum Sessions {
+  userName = "user_name", // 用户名
+  token = "token", //  token
+}

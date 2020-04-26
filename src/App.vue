@@ -9,7 +9,7 @@
     <router-link to="/preview">preview</router-link><br/>
     <router-link to="/record">record</router-link><br/>
     <router-link to="/system">system</router-link><br/>
-    
+
     <router-view/>
   </div>
 </template>

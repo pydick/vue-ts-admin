@@ -15,7 +15,7 @@ const routes: RouteConfig[] = [
   },
   {
     path: "/",
-    redirect:"/preview"
+    redirect: "/preview"
   },
   {
     path: "/preview",
